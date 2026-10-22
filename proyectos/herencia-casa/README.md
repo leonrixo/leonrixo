@@ -86,6 +86,65 @@
 
 **Tiempo estimado: 3 a 5 meses** si el avalúo sale bien y ninguna hermana cambia de opinión.
 
+### Actualización: el yerno tiene apenas ~1 mes en su nuevo empleo
+- Infonavit pide **relación laboral vigente y unos 6 meses de cotización continua** con el patrón actual. Lo confirman varias notas 2025-2026; no pudimos abrir la página oficial. Si cambia de empleo o hay una pausa en el IMSS, el conteo **vuelve a cero**.
+- El **saldo de la Subcuenta de Vivienda** de empleos anteriores **se conserva**.
+- Desde 2025 rige el modelo **T100** (mínimo 100 puntos) en lugar de los 1,080 puntos. Además se consulta el Buró de Crédito y se toma el curso "Saber + para decidir mejor".
+- Para revisarlo: en **Mi Cuenta Infonavit**, ir a "Tramitar mi crédito" → "Precalificación y puntos". También existe el servicio de bimestres continuos: https://precalificaciones.infonavit.org.mx/wpBimestresContinuosWeb/
+- **En la práctica:** el crédito estaría disponible hacia **abril de 2027**, contando 6 meses desde que empezó en este trabajo. Ese tiempo **no se pierde**, porque se necesita para:
+  - el avalúo previo de Infonavit;
+  - las constancias de Desarrollo Urbano y del INAH;
+  - el convenio firmado de las 6;
+  - el inventario, avalúo y partición ante notario (3 a 5 meses).
+
+  La promesa de compraventa debe dar un plazo realista, de **8 a 10 meses**.
+
+### Cómo funciona el remate (subasta) en Guanajuato
+Lo leímos en el texto oficial del Código Civil (CCG) y del Código de Procedimientos Civiles (CPCG) de Guanajuato.
+
+**¿Una sola hermana puede forzar la venta?** Sí.
+- **CCG art. 3016:** *"Cuando una cosa sea indivisible o desmerezca mucho por su división, podrá adjudicarse a un heredero, si abona a los otros el exceso en dinero. Pero bastará que uno sólo de los herederos pida su venta en pública subasta, para que así se haga."*
+- **CCG art. 3007:** *"A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aun por prevención expresa del testador."*
+- Funciona en los dos sentidos:
+  - Si las otras 5 quieren conservar la casa o vendérsela a la familia y **una** pide subasta, se subasta.
+  - Si la suegra **no quiere vender** y otra hermana pide la subasta, la casa **se vende de todos modos**. La suegra no la puede frenar solo con negarse.
+- El art. 3018, que habla del "parecer de la mayoría", solo orienta al juez; no anula el 3016.
+
+**¿Cómo se evita la subasta?**
+1. Con un **convenio firmado por las 6**, incluida la que pidió la subasta. Puede ser para adjudicar la casa a una o para vendérsela al yerno (CCG arts. 932, 3008 y 3014).
+2. **Comprándole su parte** a la hermana que quiere vender. Entre coherederas no aplica el derecho del tanto (art. 2550), y con eso desaparece su petición.
+3. Probando con peritos que la casa se puede **dividir sin perder valor**. Es poco probable en una casa de este tipo.
+
+> Por eso la prioridad es que las 6 firmen el convenio **ahora**, mientras todas están de acuerdo.
+
+**¿A qué precio se remata?** Con el **avalúo del juzgado**, no con el de Infonavit. El de Infonavit solo sirve para calcular el crédito.
+
+| Paso | Regla (CPCG) |
+|---|---|
+| Quién valúa | Las herederas eligen perito **por mayoría**. Si no se ponen de acuerdo, lo nombra el juez (art. 620). Si hay dictámenes distintos, decide un **perito tercero** (arts. 149 y 155). |
+| Anuncio | Edictos en el Periódico Oficial y en el juzgado (arts. 516 y 681). |
+| 1ª almoneda | Base = avalúo. **Postura legal = 2/3 del avalúo** (art. 521). |
+| Depósito para pujar | El **10%** de la oferta en efectivo o cheque certificado (art. 524). Si el postor no cumple, lo pierde (art. 526). |
+| Si nadie compra | Nueva almoneda con **10% menos** (art. 517), y otro 10% en cada una de las siguientes (art. 518). |
+
+**Ejemplo con un avalúo de $1,000,000:**
+
+| Almoneda | Base | Se puede vender desde |
+|---|---|---|
+| 1ª | $1,000,000 | $666,667 |
+| 2ª | $900,000 | $600,000 |
+| 3ª | $810,000 | $540,000 |
+
+A eso se le restan gastos de juicio, edictos e impuestos, y lo que queda se reparte entre 6. **Todas pierden dinero.**
+
+**¿Quién puede comprar en la subasta?**
+- Cualquier persona con dinero, **incluidas las hermanas**.
+- **La albacea no puede** comprar (CCG arts. 1778 y 1780).
+- El **yerno no podría usar Infonavit**, porque el crédito no financia remates y se paga de contado o con depósito inmediato.
+- Lo más probable es que la compre un **inversionista con efectivo**, barata.
+
+**Conclusión:** la subasta conviene a alguien de fuera, no a la familia. Hay que usarla solo como **argumento** para que todas firmen el convenio.
+
 ---
 
 ## Supuestos del caso
