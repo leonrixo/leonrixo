@@ -7,7 +7,8 @@
 - La casa está escriturada a nombre de la madre (la abuela), que ya falleció. El padre también falleció.
 - Hay testamento y ya hubo juicio testamentario. Ahora se está haciendo el avalúo para vender. Una de las 6 hijas puede comprar la casa y el dinero se repartiría entre las demás.
 - La hija que cuidó a sus padres unos 15 años sin cobrar, viviendo en la casa y con ingresos propios, **es la suegra** del interesado. *(Hay que confirmarlo; ver preguntas.)*
-- El interesado es el yerno. Tiene más de 50 años y tiene crédito Infonavit.
+- El interesado es el yerno y tiene crédito Infonavit.
+- **La casa tiene más de 50 años de construida.** Eso afecta el avalúo de Infonavit, la documentación y el ISR de las vendedoras (ver sección 2.1).
 
 ---
 
@@ -44,10 +45,30 @@
 
 ---
 
-## 2. ¿Puede el yerno comprar la casa con Infonavit teniendo más de 50 años?
+## 2. ¿Puede el yerno comprar con Infonavit una casa de más de 50 años?
 
-**Sí, la edad no lo impide, pero reduce el plazo y por tanto el monto.**
+**Sí. Infonavit no prohíbe financiar casas antiguas.** Lo que cuenta es que el avalúo autorizado diga que a la casa le quedan suficientes años de vida útil y que la documentación esté en orden.
 
+### 2.1 Qué implica que la casa tenga más de 50 años
+
+| Tema | Qué revisar | Riesgo |
+|---|---|---|
+| **Vida útil remanente** | El valuador autorizado por Infonavit calcula cuántos años de uso le quedan a la casa. Las fuentes consultadas hablan de un mínimo de **30 años**; algunos criterios lo ligan al plazo del crédito. *Confirmarlo con el valuador antes de pagar el avalúo.* | **Alto.** Si la casa sale con poca vida útil, Infonavit puede negar el crédito o reducir el plazo y el monto. |
+| **Estado de conservación** | Estructura, cimentación, humedad, grietas, techos (losa o lámina), instalaciones eléctricas e hidráulicas, y material (adobe o tabique). | Una casa bien mantenida o remodelada puede tener vida útil remanente alta aunque sea vieja. Si tiene daños, conviene repararlos **antes** del avalúo. Aquí cuentan las mejoras que haya hecho la suegra. |
+| **Construcciones no registradas** | Es común que una casa de 50 años tenga ampliaciones (cuartos, segundo piso) que no aparecen en la escritura ni en el catastro. | El notario y el valuador pueden pedir que se actualice o regularice: manifestación de construcción, actualización catastral o licencia. Esto toma tiempo y dinero. |
+| **Superficie y linderos** | Las escrituras antiguas a veces tienen medidas o colindancias que no coinciden con la realidad. | Puede requerir una rectificación de medidas antes de escriturar. |
+| **Escritura antigua** | Revisar que la escritura de la madre esté inscrita en el Registro Público y que no tenga gravámenes viejos sin cancelar (hipotecas pagadas pero no liberadas, embargos antiguos). | Una hipoteca vieja sin cancelar bloquea el crédito. Se pide la carta de liberación al acreedor o se cancela por prescripción. |
+| **Uso de suelo y servicios** | Que sea habitacional y que tenga agua, drenaje y luz con contrato. | Bajo, salvo zonas irregulares o ejidales. |
+| **Zona histórica o patrimonial** | En algunos centros históricos, las casas antiguas tienen protección del INAH o del municipio. | Puede limitar remodelaciones; no suele impedir la compra. |
+
+### 2.2 Efecto en el ISR de las vendedoras
+- El ISR se calcula sobre la ganancia: precio de venta menos lo que costó la casa cuando la compró la madre, actualizado por inflación.
+- Con más de 50 años, el **costo original suele ser muy bajo** (y muchas veces no hay comprobante). Por eso la ganancia y el ISR pueden ser **altos** para las 5 hermanas que no vivían ahí.
+- **La construcción se deprecia 3% por año, pero nunca a menos del 20%** de su costo (LISR art. 124). En una casa de 50+ años ya se llegó a ese mínimo.
+- Si no existe el dato del costo original, el notario puede pedir un **avalúo referido a la fecha en que se compró** (LISR art. 124) para calcularlo. Ese avalúo puede bajar mucho el impuesto y conviene pedirlo.
+- La exención de casa habitación de la suegra no cambia por la antigüedad de la casa.
+
+### 2.3 Tu edad como acreditado
 - La regla es **edad + plazo ≤ 70 años (hombres)** y 75 (mujeres). No hay una edad máxima fija.
 
 | Edad al solicitar | Plazo máximo |
@@ -82,7 +103,7 @@ Según los "Criterios jurídicos de otorgamiento de crédito" de Infonavit, la o
 3. El certificado de libertad de gravamen está a nombre de la difunta y sin otros gravámenes.
 4. Se escritura **con el mismo notario que lleva la sucesión**, y el notario debe trabajar con Infonavit.
 5. El **avalúo lo hace una unidad de valuación autorizada por Infonavit**. El avalúo que se está haciendo ahora quizá no sirva para el crédito.
-6. Predial y agua al corriente, servicios básicos y vida útil restante de unos 30 años.
+6. Predial y agua al corriente, servicios básicos y vida útil remanente suficiente (unos 30 años según las fuentes; ver 2.1).
 
 ---
 
@@ -134,8 +155,14 @@ Según los "Criterios jurídicos de otorgamiento de crédito" de Infonavit, la o
 9. ¿Cuánto costó la casa originalmente y en qué año? Sirve para calcular el ISR de las vendedoras.
 10. ¿Tu suegra tiene comprobantes de domicilio y de gastos médicos, funeral, predial o mejoras a su nombre?
 
+**Sobre la casa (más de 50 años)**
+10a. ¿De qué material es y en qué estado está? ¿Tiene grietas, humedad o problemas de techo o instalaciones?
+10b. ¿Se le han hecho ampliaciones (cuartos, segundo piso) que no estén en la escritura?
+10c. ¿La escritura de la madre está inscrita en el Registro Público? ¿Tuvo alguna hipoteca antigua y se canceló?
+10d. ¿Está en zona del centro histórico o en terreno ejidal?
+
 **Sobre ti y tu crédito**
-11. ¿Qué **edad exacta** tienes? Define el plazo: a los 50 son 20 años, a los 55 son 15.
+11. ¿Qué **edad** tienes? Define el plazo máximo del crédito (edad + plazo ≤ 70 en hombres).
 12. ¿Ya **usaste** un crédito Infonavit antes? ¿Está activo o liquidado? ¿O solo tienes la precalificación?
 13. ¿Cuánto te precalifica Infonavit hoy y cuánto saldo tienes en la Subcuenta de Vivienda?
 14. ¿Sigues **cotizando al IMSS** con relación laboral vigente?
