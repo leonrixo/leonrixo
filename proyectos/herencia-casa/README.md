@@ -2,6 +2,92 @@
 
 > **Aviso.** Este documento es orientación general, no asesoría legal. Lo armamos a partir de tres revisiones especializadas: derecho sucesorio, Infonavit y estrategia notarial. Muchas reglas cambian según el estado (ISAI, códigos civiles, notarías). Antes de firmar o entregar dinero, confirmen todo con el **notario que lleva la sucesión** y con **Infonavit**. Fecha de corte: octubre de 2026.
 
+## ★ Plan para tu caso: Alfaro 133, Col. Obregón, León, Gto.
+
+**Datos confirmados**
+- La hija cuidadora es la suegra.
+- El testamento reparte en partes iguales.
+- El juicio está en la etapa de declaración de herederas y nombramiento de albacea.
+- Las 6 hermanas están de acuerdo en vender al yerno.
+- El yerno tiene 31 años, nunca ha usado crédito Infonavit, ya precalificó y cotiza.
+- Está casado por separación de bienes y quieren la casa a nombre de los dos.
+- No tienen ahorros.
+- La casa:
+  - tiene más de 50 años;
+  - tiene 2 cuartos de adobe crudo, uno con techo de lámina y otro con vigas;
+  - tiene cuartos de cemento, uno con losa y otro con lámina;
+  - coincide con la escritura;
+  - no tiene adeudos ni ha tenido hipoteca.
+
+### Lo que juega a favor
+- **Edad (31 años):** puede tener **hasta 30 años de plazo**, el máximo, con el monto más alto posible para su salario.
+- **Primer crédito:** sin restricciones por créditos anteriores.
+- **Escritura limpia:** coincide con la casa y nunca tuvo hipoteca.
+- **Todas de acuerdo:** pueden sacar la herencia del juzgado. El **art. 583 del Código de Procedimientos Civiles de Guanajuato** permite que, ya reconocidas las herederas y si todas son mayores de edad, encarguen a un **notario** el inventario, el avalúo, la liquidación y la partición. Es más rápido y barato.
+- **ISABI en León (impuesto que paga el comprador):** es bajo. Según la Ley de Ingresos 2024, es **0.56% hasta $1,050,000** y después sube por tramos hasta 2.9% sobre el excedente. La prensa reportó que no subiría en 2026. *Hay que confirmar con el notario la tasa 2026 y si la adjudicación por herencia tiene trato especial.*
+
+### Riesgo 1: el adobe y los cuartos sin techo (lo más importante)
+- Infonavit pide un avalúo con **al menos ~30 años de vida útil remanente** y sin daños estructurales.
+- Con adobe crudo, cuartos sin techo y techos de lámina, el valuador puede:
+  - (a) no contar esos cuartos o darles muy poco valor, o
+  - (b) rechazar la casa completa.
+- **Qué hacer:**
+  1. **Antes de firmar nada**, pedir el **avalúo con una unidad de valuación autorizada por Infonavit**. Cuesta unos miles de pesos. El avalúo del juzgado no sirve para el crédito.
+  2. Si sale bien, aunque sea solo por la parte de cemento, seguir con la compra. Después usar **Mejoravit** para reparar o techar.
+  3. Si sale mal, hay dos caminos:
+     - Que las hermanas, sobre todo la suegra que vive ahí, hagan reparaciones mínimas antes de un segundo avalúo: techar, quitar riesgos.
+     - Preguntar a Infonavit por sus productos para **comprar terreno** y luego **construir (ConstruYO)**. En ese caso la casa se compraría por el valor del terreno. *Hay que verificar que esos productos sigan vigentes.*
+
+### Riesgo 2: posible zona patrimonial
+- Un estudio del IMPLAN ubica la **Colonia Obregón dentro del sector "Barrio Arriba"**, parte de la "Ciudad Histórica" de León. Menciona **fincas catalogadas por el INAH** en la colonia.
+- Eso **no quiere decir** que la calle Alfaro esté en el polígono protegido ni que **esta casa** esté catalogada.
+- **Cómo comprobarlo:**
+  1. Pedir la **constancia de zonificación / uso de suelo** en Desarrollo Urbano de León.
+  2. Preguntar en la **Sección de Monumentos del Centro INAH Guanajuato** si la finca está catalogada.
+- Si está catalogada, demoler o reforzar el adobe requiere permisos especiales. La compra no se impide, pero las obras sí se complican.
+
+### Riesgo 3: «a nombre de los dos» con separación de bienes
+- Con **crédito individual** y separación de bienes, Infonavit escritura **solo a nombre del acreditado**, es decir, del yerno.
+- Para que quede a nombre de ambos desde el inicio:
+  - Si **la esposa cotiza** al IMSS o al ISSSTE, pueden usar **crédito conyugal** o **Unamos Créditos** y quedan como copropietarios. Hay que confirmar con Infonavit que no haya problema porque ella es hija de una de las vendedoras.
+  - Si **no cotiza**, la casa queda a nombre del yerno. Para proteger a la esposa:
+    - **Testamento** del yerno a favor de ella.
+    - Cuando se liquide el crédito, o con autorización de Infonavit, **donación de la mitad a la esposa**. Entre cónyuges está exenta de ISR (LISR art. 93-XXIII), pero causa ISABI y gastos notariales.
+
+### Riesgo 4: no tener ahorros
+- El **saldo de la Subcuenta de Vivienda** se suma al crédito.
+- Los **gastos de titulación y financiamiento** se descuentan del crédito. Según Infonavit, no se cobran si el salario es de hasta ~$9,985 al mes.
+- El **avalúo previo** y, normalmente, el **ISABI** sí hay que pagarlos aparte.
+- El **ISR de las hermanas** lo pagan ellas, de lo que reciben.
+- **Cómo cubrir los gastos sin ahorros:** la **suegra** recibe su sexta parte del precio el día de la firma, y por ser su casa habitación está exenta de ISR. Puede **donar parte de ese dinero a su hija** (exento por ser línea recta; se informa si pasa de $600,000) para pagar el ISABI y la notaría. También pueden pactar en el convenio que los gastos salgan de su parte. **Nunca debe donarlo directamente al yerno**, porque esa donación no está exenta.
+- Si el avalúo sale **mayor** que lo que presta Infonavit, el precio de venta no puede superar lo que tienen. Las 6 tendrían que aceptar vender al monto del crédito. Ese reparto menor puede pactarse a cambio de reconocer los cuidados de la suegra.
+
+### Derecho del tanto en Guanajuato
+- Si **una** hermana vende su derecho hereditario a un extraño, y el yerno lo es, las demás tienen **15 días** para igualar la oferta (CC Gto arts. 2548-2550). En copropiedad aplican los arts. 942-944.
+- Si **las 6 venden juntas la casa completa**, no hay problema de tanto. Conviene que firmen las 6, o que den poder notarial.
+- **Ojo (art. 3016 CC Gto):** basta con que **una sola** hermana pida la subasta pública para que la casa se venda así. Por eso el acuerdo de las 6 debe quedar **firmado** cuanto antes.
+
+### Ruta paso a paso
+1. **Esta semana:**
+   - En Mi Cuenta Infonavit, revisar el **monto real** de la precalificación a 30 años y el saldo de la Subcuenta.
+   - Preguntar a Infonatel (800 008 3900) dos cosas: si se puede comprar a la suegra y sus hermanas, y si financian una casa de adobe.
+2. Pedir el **avalúo con un valuador autorizado por Infonavit**. Con el resultado se sabe si la compra es viable y cuánto prestan.
+3. Pedir la **constancia de zonificación** (Desarrollo Urbano) y la consulta al **INAH**.
+4. Firmar entre las 6 un **convenio** que incluya:
+   - aceptación de vender al yerno a precio de avalúo Infonavit, o al monto del crédito;
+   - reconocimiento de los gastos de la suegra;
+   - renuncia a cobrarle renta;
+   - cómo se pagan los gastos.
+
+   También firmar una **promesa de compraventa** sujeta a que se apruebe el crédito.
+5. Elegir un **notario en León que trabaje con Infonavit**. Pedir al juzgado que el inventario, el avalúo y la partición pasen a ese notario (art. 583 CPC Gto).
+6. Tramitar el crédito y firmar **una sola escritura**: adjudicación a las 6 y compraventa al yerno con hipoteca Infonavit. El notario retiene el ISR de las 5 hermanas. La suegra queda exenta presentando sus comprobantes de domicilio.
+7. Inscribir en el Registro Público y hacer testamentos: del yerno, de la esposa y de la suegra.
+
+**Tiempo estimado: 3 a 5 meses** si el avalúo sale bien y ninguna hermana cambia de opinión.
+
+---
+
 ## Supuestos del caso
 
 - La casa está escriturada a nombre de la madre (la abuela), que ya falleció. El padre también falleció.
